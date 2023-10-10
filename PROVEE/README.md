@@ -1,0 +1,1 @@
+https://github.com/glucauze/sd-webui-faceswaplab
